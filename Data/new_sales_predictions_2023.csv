@@ -1,4 +1,4 @@
-,Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales
+Index,Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales
 0,9.3,Low Fat,0.016047301,Dairy,249.8092,Medium,Tier 1,Supermarket Type1,3735.138
 1,5.92,Regular,0.019278216,Soft Drinks,48.2692,Medium,Tier 3,Supermarket Type2,443.4228
 2,17.5,Low Fat,0.016760075,Meat,141.618,Medium,Tier 1,Supermarket Type1,2097.27
